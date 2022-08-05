@@ -1,8 +1,7 @@
 ---
-stub: true
 tags:
-  - Osu! Tatake! Ouendan
-outdated: true
+  - Osu! Tatakae! Ouendan
+outdated_translation: true
 outdated_since: 9eb0beb9e4e5381f34f66673a296fc77e685014e
 ---
 

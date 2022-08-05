@@ -1,10 +1,10 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
-# Eigene Hinsounds hinzufügen
+# Eigene Hitsounds hinzufügen
 
-Von dem Thread: *[Wie man einen Eigenen Hitsound hinzufügt. (von neonat)](https://osu.ppy.sh/community/forums/posts/3215699)*
+Von dem Thread: *[Wie man einen eigenen Hitsound hinzufügt. (von neonat)](https://osu.ppy.sh/community/forums/posts/3215699)*
 
 ## Eigene Hitsounds
 
